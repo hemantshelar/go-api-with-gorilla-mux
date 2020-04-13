@@ -10,5 +10,11 @@ https://github.com/mingrammer/go-todo-rest-api-example
  git status
  git add .
  git commit -m 'Added gorila mux router'
+ change branch to master
  git merge gorila-mux-changes
+ 
+
+ git remote add origin remote-repository-URL
+ git remote -v
+ git push origin master
  
