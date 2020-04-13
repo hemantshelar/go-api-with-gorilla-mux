@@ -5,4 +5,6 @@ https://github.com/mingrammer/go-todo-rest-api-example
  go  mod init  github.com/hshelar/api-structure-demo
 
  go get github.com/gorilla/mux
+
+ git checkout -b gorila-mux-changes
  
