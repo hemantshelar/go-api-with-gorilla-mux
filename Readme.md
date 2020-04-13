@@ -7,4 +7,8 @@ https://github.com/mingrammer/go-todo-rest-api-example
  go get github.com/gorilla/mux
 
  git checkout -b gorila-mux-changes
+ git status
+ git add .
+ git commit -m 'Added gorila mux router'
+ git merge gorila-mux-changes
  
